@@ -1,0 +1,13 @@
+@CHARSET "UTF-8";
+
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface|Anton');
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothiccoding.css);
+body{
+font-family: 'Nanum Gothic Coding', monospace;
+width:959px;
+font-family: 'Ubuntu', sans-serif;
+margin-left:auto;
+margin-right:auto;
+}
+
+
